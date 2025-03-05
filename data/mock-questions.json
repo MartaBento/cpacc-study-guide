@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is the purpose of WCAG?",
+    "options": [
+      "A set of accessibility laws",
+      "Guidelines for web accessibility",
+      "A disability advocacy group",
+      "None of the above"
+    ],
+    "answer": "Guidelines for web accessibility"
+  }
+]
