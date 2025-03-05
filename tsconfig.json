@@ -25,6 +25,16 @@
       }
     ]
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "content/docs/resources/glossary.mdx", "content/docs/resources/faqs.msx", "content/docs/resources/book-list.mdx"],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "content/docs/resources/glossary.mdx",
+    "content/docs/resources/faqs.msx",
+    "content/docs/resources/book-list.mdx",
+    "content/docs/domains/disabilities/disabilities.mdx",
+    "content/docs/domains/law-policies/law-policies.mdx"
+  ],
   "exclude": ["node_modules"]
 }
