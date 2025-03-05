@@ -7,6 +7,7 @@
       "A disability advocacy group",
       "None of the above"
     ],
-    "answer": "Guidelines for web accessibility"
+    "answer": "Guidelines for web accessibility",
+    "explanation": "WCAG (Web Content Accessibility Guidelines) is a set of recommendations published by the W3C to make web content more accessible to people with disabilities. It provides a framework for making web content more perceivable, operable, understandable, and robust."
   }
 ]
