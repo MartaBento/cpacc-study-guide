@@ -1,0 +1,212 @@
+[
+  {
+    "question": "Which theoretical model of disability emphasizes societal and environmental factors that limit the participation of people with disabilities, rather than focusing on the impairment itself?",
+    "options": [
+      "Medical Model",
+      "Biopsychosocial Model",
+      "Social Model",
+      "Functional Solutions Model"
+    ],
+    "answer": "Social Model",
+    "explanation": "The Social Model of Disability focuses on removing societal and environmental barriers to help people with disabilities participate fully in society."
+  },
+  {
+    "question": "The biopsychosocial model of disability integrates three key factors. Which of the following is *NOT* one of these factors?",
+    "options": [
+      "Psychosocial factors",
+      "Biological factors",
+      "Economic factors",
+      "Social factors"
+    ],
+    "answer": "Economic factors",
+    "explanation": "The biopsychosocial model of disability integrates biological, psychosocial, and social factors, but economic factors are not specifically considered in this model."
+  },
+  {
+    "question": "What is the major limitation of the medical model of disability when compared to the social model of disability?",
+    "options": [
+      "Focus on medical intervention rather than societal barriers",
+      "Overemphasis on the individual's responsibility to adapt",
+      "Denies the importance of accessibility features",
+      "Dismisses assistive technologies"
+    ],
+    "answer": "Focus on medical intervention rather than societal barriers",
+    "explanation": "The medical model tends to focus on treating the individual’s disability, whereas the social model emphasizes addressing societal barriers and making environments accessible."
+  },
+  {
+    "question": "Which disability model emphasizes a person’s identity as part of a cultural or social group rather than as an individual needing treatment or adjustment?",
+    "options": [
+      "Charity Model",
+      "Social Identity or Cultural Affiliation Model",
+      "Economic Model",
+      "Medical Model"
+    ],
+    "answer": "Social Identity or Cultural Affiliation Model",
+    "explanation": "The Social Identity or Cultural Affiliation Model emphasizes the importance of a person's cultural and social identity, often seen in the Deaf community or other groups of individuals with disabilities."
+  },
+  {
+    "question": "Which model of disability is most commonly associated with the concept that disability is caused by the individual’s impairment and needs to be cured or fixed?",
+    "options": [
+      "Medical Model",
+      "Social Model",
+      "Biopsychosocial Model",
+      "Charity Model"
+    ],
+    "answer": "Medical Model",
+    "explanation": "The Medical Model views disability as a result of an individual’s impairment, with the primary focus being on treatment and cure."
+  },
+  {
+    "question": "Which assistive technology is most commonly used by individuals with severe mobility impairments to interact with a computer or communication device using their eyes?",
+    "options": [
+      "Eye Gaze Technology",
+      "Speech-to-Text Software",
+      "Hearing Aids",
+      "Screen Magnifiers"
+    ],
+    "answer": "Eye Gaze Technology",
+    "explanation": "Eye Gaze Technology enables individuals with severe mobility impairments to interact with devices using only their eye movements."
+  },
+  {
+    "question": "What is the primary advantage of using the functional solutions model in the development of assistive technologies?",
+    "options": [
+      "Focus on creating long-term social change",
+      "Addressing both medical and environmental factors",
+      "Emphasis on practical, real-world solutions",
+      "Promotes community-based initiatives"
+    ],
+    "answer": "Emphasis on practical, real-world solutions",
+    "explanation": "The Functional Solutions Model is focused on providing practical, real-world solutions to overcome the functional impairments caused by disabilities."
+  },
+  {
+    "question": "Which of the following disabilities is least likely to be directly affected by inaccessible digital content, according to the biopsychosocial model of disability?",
+    "options": [
+      "Blindness",
+      "Hearing Loss",
+      "Cognitive Impairments",
+      "Quadriplegia"
+    ],
+    "answer": "Quadriplegia",
+    "explanation": "Quadriplegia may be impacted by inaccessible physical environments or lack of mobility aids, but digital content typically affects visual, auditory, or cognitive impairments more directly."
+  },
+  {
+    "question": "Which accessibility guideline in WCAG 2.1 ensures that digital content is accessible to users with disabilities across different platforms and technologies?",
+    "options": ["Perceivable", "Operable", "Robust", "Understandable"],
+    "answer": "Robust",
+    "explanation": "The Robust guideline in WCAG 2.1 ensures that digital content is compatible with current and future technologies, making it accessible across platforms."
+  },
+  {
+    "question": "According to the WHO, which disability category has a higher proportion of cases that could be prevented or treated through access to healthcare and medical interventions?",
+    "options": ["Blindness", "Dyslexia", "Speech Impairments", "Amputations"],
+    "answer": "Blindness",
+    "explanation": "Blindness is one of the conditions that could be significantly reduced through early intervention, medical care, and treatment."
+  },
+  {
+    "question": "Which disability model is focused on assessing the economic impact of disability, particularly in terms of lost productivity and the costs of social support?",
+    "options": [
+      "Economic Model",
+      "Medical Model",
+      "Biopsychosocial Model",
+      "Charity Model"
+    ],
+    "answer": "Economic Model",
+    "explanation": "The Economic Model of disability focuses on assessing the financial consequences of disability, including lost productivity and the costs to individuals, employers, and the state."
+  },
+  {
+    "question": "What is one major limitation of the social model of disability in the context of rehabilitation and medical treatment?",
+    "options": [
+      "It downplays the importance of societal change",
+      "It ignores the psychological impacts of disability",
+      "It overlooks the individual’s medical needs",
+      "It focuses only on physical barriers"
+    ],
+    "answer": "It overlooks the individual’s medical needs",
+    "explanation": "While the social model focuses on removing societal barriers, it may overlook the medical or health-related needs of individuals with disabilities."
+  },
+  {
+    "question": "In which theoretical model of disability would a person with a disability be viewed as needing treatment or management to ‘fit into’ society, often seen as a medical or professional responsibility?",
+    "options": [
+      "Charity Model",
+      "Medical Model",
+      "Social Model",
+      "Functional Solutions Model"
+    ],
+    "answer": "Medical Model",
+    "explanation": "The Medical Model often views the individual with a disability as needing treatment or management to fit into society, focusing on the individual’s impairment and possible cures."
+  },
+  {
+    "question": "Which of the following assistive technologies would be most beneficial for individuals who are blind or visually impaired and prefer a tactile reading method?",
+    "options": [
+      "Screen Readers",
+      "Refreshable Braille Displays",
+      "Speech Recognition Systems",
+      "Text Magnifiers"
+    ],
+    "answer": "Refreshable Braille Displays",
+    "explanation": "Refreshable Braille Displays provide tactile feedback and are ideal for individuals who are blind and prefer reading in braille, without relying on auditory feedback."
+  },
+  {
+    "question": "What is the primary limitation of artificial intelligence-generated captions in terms of accessibility?",
+    "options": [
+      "Inability to reflect the tone of speech",
+      "Inability to account for complex punctuation",
+      "Limited compatibility with assistive technologies",
+      "Excessive verbosity in captions"
+    ],
+    "answer": "Inability to account for complex punctuation",
+    "explanation": "AI-generated captions often fail to include complex punctuation, making the captions harder to understand, especially in long or technical content."
+  },
+  {
+    "question": "In an accessible website, which of the following practices would be in line with the 'Operable' principle of WCAG?",
+    "options": [
+      "Ensuring content is easy to read",
+      "Providing multiple ways to navigate the site",
+      "Including alt text for images",
+      "Ensuring text is resizable"
+    ],
+    "answer": "Providing multiple ways to navigate the site",
+    "explanation": "The 'Operable' principle focuses on ensuring that all users can interact with and navigate digital content, including providing multiple navigation options."
+  },
+  {
+    "question": "Which of the following is a major challenge in making ICT (Information and Communication Technologies) accessible in developing countries?",
+    "options": [
+      "Lack of technological innovation",
+      "Limited access to assistive technologies",
+      "Poor internet infrastructure",
+      "Cost of compliance with standards"
+    ],
+    "answer": "Limited access to assistive technologies",
+    "explanation": "In many developing countries, there is limited access to assistive technologies, making it difficult for individuals with disabilities to access ICT."
+  },
+  {
+    "question": "In the context of disability and accessibility, which of the following best describes the 'Charity Model' of disability?",
+    "options": [
+      "Focusing on social justice and systemic change",
+      "Viewing people with disabilities as objects of pity",
+      "Encouraging empowerment and independence",
+      "Integrating disability awareness into mainstream policies"
+    ],
+    "answer": "Viewing people with disabilities as objects of pity",
+    "explanation": "The Charity Model views individuals with disabilities as objects of pity, focusing on providing aid rather than empowering the individual."
+  },
+  {
+    "question": "According to the WHO's International Classification of Functioning, Disability and Health (ICF), disability is viewed as an interaction between which two components?",
+    "options": [
+      "Medical and political",
+      "Impairment and social barriers",
+      "Health conditions and environmental factors",
+      "Biological and economic factors"
+    ],
+    "answer": "Health conditions and environmental factors",
+    "explanation": "The ICF views disability as an interaction between health conditions and environmental factors, emphasizing a holistic approach to disability."
+  },
+  {
+    "question": "Which of the following principles of universal design in accessibility focuses on the need for a product to be useful to people with different abilities and backgrounds?",
+    "options": [
+      "Flexibility in Use",
+      "Simple and Intuitive Use",
+      "Equitable Use",
+      "Low Physical Effort"
+    ],
+    "answer": "Equitable Use",
+    "explanation": "The principle of Equitable Use ensures that products and services are accessible and beneficial to individuals from diverse backgrounds and abilities."
+  }
+]

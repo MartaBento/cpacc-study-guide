@@ -35,6 +35,6 @@
     "content/docs/resources/book-list.mdx",
     "content/docs/domains/disabilities/disabilities.mdx",
     "content/docs/domains/law-policies/law-policies.mdx"
-  ],
+, "content/docs/introduction/body-of-knowledge.mdx"  ],
   "exclude": ["node_modules"]
 }

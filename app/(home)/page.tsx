@@ -29,37 +29,34 @@ export default function HomePage() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button asChild>
               <Link href="/docs" className="flex items-center gap-2">
-                Start Learning <ArrowRight size={18} />
+                Start learning <ArrowRight size={18} />
               </Link>
-            </Button>
-            <Button variant="outline" asChild>
-              <Link href="/docs/about">About the Exam</Link>
             </Button>
           </div>
         </div>
       </div>
-
       <footer className="w-full text-center py-6 border-t border-gray-200 dark:border-gray-700 space-y-2">
-        <p className="text-sm text-gray-600 dark:text-gray-400 flex items-center justify-center gap-2">
-          Created with 💛 by Marta B.
+        <p className="text-xs text-gray-500 dark:text-gray-400 pt-4">
+          © {new Date().getFullYear()} Created with 💛 by Marta B. All rights
+          reserved.
         </p>
-        <div className="flex items-center justify-center gap-4">
+        <div className="flex items-center justify-center gap-4 pt-4">
           <Link
             href="https://www.linkedin.com/in/marta-bento"
             target="_blank"
             className="text-yellow-500 hover:underline flex items-center gap-1"
           >
-            <icons.Linkedin size={16} />
-          </Link>{" "}
+            <icons.Linkedin size={20} />
+          </Link>
           <Link
             href="https://github.com/martabento"
             target="_blank"
             className="text-yellow-500 hover:underline flex items-center gap-1"
           >
-            <icons.Github size={16} />
+            <icons.Github size={20} />
           </Link>
         </div>
-        <div className=" pt-4 flex items-center justify-center">
+        <div className="pt-4 flex items-center justify-center">
           <Link href="https://www.buymeacoffee.com/martabento" target="_blank">
             <Image
               src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
